@@ -32,6 +32,7 @@ Like mentioned earlier, our current program is only in a web format. We can defi
 Thank you StemWarriorHacks and Symbl.ai for providing us this unique opportunity to gain our experience and grow intellectually!
 
 Email of team:
-sanghyuk.eric@gmail.com
-gl91306@student.musd.org
-normalwilsonwu@gmail.com
+sanghyuk.eric@gmail.com,
+gl91306@student.musd.org,
+normalwilsonwu@gmail.com,
+dashashutosh1999@gmail.com
